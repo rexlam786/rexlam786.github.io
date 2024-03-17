@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# How to use GitHub Pages
+
+Make additional pages on the site:
+
+*   Create a file in the main directory called ./pagename.html.
+*   Make it clickable option by [text you want to show](./pagename.html)
+
+[Link to another page](./another-pfdafage.html).
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
