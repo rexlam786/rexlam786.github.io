@@ -17,6 +17,19 @@ in the file
 *   Make it clickable option by [text you want to show](./pagename.html) Make sure its .html even though the file is .md
 
 
+# MarkDown CheatSheet
+
+[MarkDown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+
+
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -25,6 +38,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
 
 # Header 1
 
