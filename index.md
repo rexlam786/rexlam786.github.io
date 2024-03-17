@@ -2,15 +2,15 @@
 layout: default
 ---
 
+# Rex Lam
+
 # How to use GitHub Pages
 
-Make additional pages on the site:
+Find instructions [here](./howto.html)
 
-*   Create a file in the main directory called ./pagename.html.
-*   Make it clickable option by [text you want to show](./pagename.html)
+# CV
 
-[Link to another page](./another-pfdafage.html).
-
+Find my CV [here](./cv.html)
 
 
 
