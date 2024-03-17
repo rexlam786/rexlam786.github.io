@@ -19,6 +19,8 @@ in the file
 
 # MarkDown CheatSheet
 
+![Quick Reference](../images/markdown-syntax-cheatsheet.png)
+
 [MarkDown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 

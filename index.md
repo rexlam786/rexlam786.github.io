@@ -3,7 +3,18 @@ layout: default
 title: Rex Lam
 ---
 
-# [Rex Lam](./)
+Rex Lam
+
+# To Do List
+
+- Permanent Homepage Link
+- Change up UI Banner
+- Categories
+  - Blog Posts/Journal entries
+  - Research Topics
+    - Laser Machining
+  - Career
+  - Games?
 
 # How to use GitHub Pages
 

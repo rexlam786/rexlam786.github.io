@@ -2,7 +2,7 @@
 layout: default
 title: Blog Posts
 ---
-
+[Home](/)
 Place to document journal entries
 
 
