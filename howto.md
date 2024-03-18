@@ -14,7 +14,7 @@ title: Put Title Here
 ---`
 -->
 in the file
-*   Make it clickable option by [text you want to show](./pagename.html) Make sure its .html even though the file is .md
+*   Make it clickable option. Make sure its .html even though the file is .md
 
 
 # MarkDown CheatSheet
