@@ -23,7 +23,11 @@ in the file
 
 [MarkDown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+# HTML CheatSheet
 
+![Codecademy Cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
+
+![Forms Example](../sample_codes/forms_example.html)
 
 
 
