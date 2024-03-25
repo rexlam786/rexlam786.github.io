@@ -29,7 +29,9 @@ in the file
 
 ![Forms Example](../sample_codes/forms_example.html)
 
+# CSS Cheatsheet
 
+![Codecademy CheatSheet](https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet)
 
 
 
